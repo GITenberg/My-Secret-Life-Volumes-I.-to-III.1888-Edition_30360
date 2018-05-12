@@ -1,0 +1,49 @@
+_repo: My-Secret-Life-Volumes-I.-to-III.1888-Edition_30360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: "My Secret Life, by \"Walter\", is the memoir of a gentleman describing\
+  \ the author's sexual development and experiences in Victorian England. It was first\
+  \ published in a private edition of eleven volumes, at the expense of the author,\
+  \ including an imperfect index, which appeared over seven years beginning around\
+  \ 1888.\nThe work itself is enormous, amounting to over one million words, the eleven\
+  \ original volumes amounting to over 4,000 pages. The text is repetitive and highly\
+  \ disorganised, but its frank discussion of sexual matters and other hidden aspects\
+  \ of Victorian life make it a rare and valuable social document. According to Steven\
+  \ Marcus, it is virtually the only source for information on London's houses of\
+  \ prostitution, in which Walter spent many hours. It has been described as \"one\
+  \ of the strangest and most obsessive books ever written\".\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2009-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30360'
+  wikidata: Q6946361
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature'
+- !lcsh 'Sex addicts -- Biography'
+- !lcsh 'Pornography'
+- !lcc 'HQ'
+title: 'My Secret Life, Volumes I. to III.
+
+  1888 Edition'
+url: http://www.gutenberg.org/ebooks/30360
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ma_vie_secr%C3%A8te
+- https://en.wikipedia.org/wiki/My_Secret_Life_(memoir)
+- https://it.wikipedia.org/wiki/La_mia_vita_segreta
+- https://ja.wikipedia.org/wiki/%E6%88%91%E3%81%8C%E7%A7%98%E5%AF%86%E3%81%AE%E7%94%9F%E6%B6%AF
