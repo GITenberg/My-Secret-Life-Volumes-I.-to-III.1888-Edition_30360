@@ -24,6 +24,8 @@ description: "My Secret Life, by \"Walter\", is the memoir of a gentleman descri
   \ prostitution, in which Walter spent many hours. It has been described as \"one\
   \ of the strangest and most obsessive books ever written\".\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30360#My-Secret-Life-Volumes-I.-to-III.1888-Edition
 gutenberg_issued: '2009-10-30'
 gutenberg_type: Text
 identifiers:
